@@ -48,7 +48,8 @@ while True:
 
 ## OUPUT - ARP
 
-![image](https://github.com/user-attachments/assets/41322e8c-7f8a-44fc-9b6a-57f41a257942)
+![Screenshot 2024-09-14 134520](https://github.com/user-attachments/assets/d51435f1-b0d6-4552-8eb6-5cad43a6f87a)
+
 
 
 ## PROGRAM - RARP
